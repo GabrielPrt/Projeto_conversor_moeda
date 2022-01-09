@@ -1,8 +1,8 @@
 <h1>💰 Project Currency converter </h1>
 
 <p align="center">
-<img src="./img/Tela_web.png"  alt="tela-web">
-<img src="./img/Tela_phone.png"  alt="tela-phone">
+<img src="./img/Print_1.png"  width="425" alt="tela-web">
+<img src="./img/Print_2.png"  width="420" alt="tela-phone">
 </p>
 
 
@@ -22,6 +22,6 @@ This project was developed with the following technologies:
 
 This project is open to the public, to access and test.
 
-If you want to test <a href="https://gabrielprt.github.io/Project_Sony/">click here</a> 🎯
+If you want to test <a href="https://gabrielprt.github.io/Projeto_conversor_moeda/">click here</a> 🎯
 
 Created by 😁 Gabriel Prates 👋 <a href="https://github.com/GabrielPrt">Get in touch!</a>
